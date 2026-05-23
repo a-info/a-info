@@ -21,15 +21,14 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/a-info">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=a-info&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="a-info's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=a-info&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="a-info's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=a-info&theme=dark&hide_border=true&cache_seconds=86400" alt="a-info's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=a-info&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="MD Mahabubur Rahaman's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=a-info&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="MD Mahabubur Rahaman's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=a-info&theme=dark&radius=10" alt="a-info's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=a-info&theme=monokai&radius=10" alt="a-info's Activity Graph" />
 </p>
 
 
@@ -90,7 +89,7 @@
 
 <p align="center">
   <a href="https://github.com/a-info">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=a-info&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=a-info&langs_count=8&layout=compact&theme=monokai&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
